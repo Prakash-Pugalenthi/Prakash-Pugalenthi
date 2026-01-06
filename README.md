@@ -1,42 +1,42 @@
 <div align="center">
 
-# 👋 Hi, I'm **Prakash Pugalenthi**
-### 🚀 Aspiring Software Developer | Problem Solver | Tech Enthusiast
+# Hi, I'm Prakash Pugalenthi
+### Aspiring Software Developer | Problem Solver | Tech Enthusiast
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Passionate about **Data Structures & Algorithms**
-- 🧩 Regularly solving problems on **LeetCode**
-- 🐍 Strong interest in **Python programming**
-- 💻 Love writing **clean & efficient code**
-- 🚀 Constantly learning and improving
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-- Python
-- C
-- Java (Basics)
-
-### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript (Basics)
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- LeetCode
+- Passionate about Data Structures and Algorithms  
+- Regularly solving problems on LeetCode  
+- Strong interest in Python programming  
+- Focused on writing clean and efficient code  
+- Always eager to learn new technologies  
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+### Programming Languages
+- Python  
+- C  
+- Java (Basics)  
+
+### Web Technologies
+- HTML  
+- CSS  
+- JavaScript (Basics)  
+
+### Tools and Platforms
+- Git and GitHub  
+- Visual Studio Code  
+- LeetCode  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Pugalenthi&show_icons=true&theme=tokyonight" height="165"/>
@@ -45,32 +45,32 @@
 
 ---
 
-## 🔥 Problem Solving Journey
+## Problem Solving Journey
 
-- ✔ Practicing **DSA daily**
-- ✔ Focus on **time & space optimization**
-- ✔ Improving logic through challenges
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python
-- Competitive Programming
-- Backend Fundamentals
+- Daily practice of Data Structures and Algorithms  
+- Focus on time and space complexity  
+- Continuous improvement through coding challenges  
 
 ---
 
-## ⚡ Fun Facts
+## Currently Learning
 
-- 🧠 Debugging is my favorite skill
-- 🎧 Music + Coding = ❤️
-- 🔁 Consistency beats motivation
+- Advanced Python  
+- Competitive Programming  
+- Backend Fundamentals  
+
+---
+
+## Interests
+
+- Algorithmic problem solving  
+- Code optimization  
+- Software design fundamentals  
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thank you for visiting my profile
 
 </div>
