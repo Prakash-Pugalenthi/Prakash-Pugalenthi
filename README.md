@@ -1,29 +1,25 @@
-<h1 align="center">Hi 👋, I'm Prakash Pugalenthi</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Prakash-Pugalenthi.png" width="180" style="border-radius:50%" />
-</p>
+# 👋 Hi, I'm **Prakash Pugalenthi**
+### 🚀 Aspiring Software Developer | Problem Solver | Tech Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prakash-Pugalenthi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Passionate about **Data Structures & Algorithms**
-- 💻 Regularly solving problems on **LeetCode**
+- 🧩 Regularly solving problems on **LeetCode**
 - 🐍 Strong interest in **Python programming**
-- 🚀 Always eager to learn new technologies
-- 🧠 Focused on writing **clean & efficient code**
+- 💻 Love writing **clean & efficient code**
+- 🚀 Constantly learning and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 - Python
 - C
 - Java (Basics)
@@ -40,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Pugalenthi&show_icons=true&theme=tokyonight" height="165"/>
@@ -49,21 +45,11 @@
 
 ---
 
-## 🔥 Problem Solving
+## 🔥 Problem Solving Journey
 
-- ✅ Practicing **DSA & Algorithms**
-- 🧩 Solved multiple **LeetCode problems**
-- 📈 Improving time & space complexity skills
-
----
-
-## 📌 Featured Focus Areas
-
-- Linked Lists
-- Arrays & Strings
-- Recursion
-- Hashing
-- Basic System Design (Learning)
+- ✔ Practicing **DSA daily**
+- ✔ Focus on **time & space optimization**
+- ✔ Improving logic through challenges
 
 ---
 
@@ -77,12 +63,14 @@
 
 ## ⚡ Fun Facts
 
-- 🧠 I enjoy debugging more than coding 😄
-- 🎧 Coding feels better with music
-- 🔁 I believe **practice beats talent**
+- 🧠 Debugging is my favorite skill
+- 🎧 Music + Coding = ❤️
+- 🔁 Consistency beats motivation
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
